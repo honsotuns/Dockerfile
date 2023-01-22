@@ -1,6 +1,7 @@
 # Setting up CI/CD pipeline for my Dockerimage
 
 Milestone 7: Setting up the relevant GitHub secrets that contains the credentials required to push to my Dockerhub account
+
 Task 1:
 * A new GitHub repository was created
 * A new secret named DOCKERHUB_USERNAME was created and my Docker ID as value.
