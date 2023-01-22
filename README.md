@@ -1,4 +1,4 @@
-# Setting up CI/CD pipeline for my Dockerimage
+# Setting up CI/CD pipeline for my Docker image
 
 Milestone 7: Setting up the relevant GitHub secrets that contains the credentials required to push to my Dockerhub account
 
